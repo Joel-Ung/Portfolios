@@ -7,7 +7,7 @@
 
 
 
-### Customer Behaviour Analysis
+### Customer Behaviour Analysis - Best Project Award 2025 (Type II - Big Data Query and Analytics)
 Customer behaviour analysis helps to formulate data-driven decision-making for retail businesses. The primary objective is to develop a scalable data pipeline using cloud computing to conduct data ingestion, processing, and analysis with the Online Retail II dataset. 
 
 The application will feature four analytical tasks, which consist of:
