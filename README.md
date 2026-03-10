@@ -2,8 +2,8 @@
 
 ### Table of Contents
 * [Customer Behaviour Analysis](#CC)
-* [Call Centre Churn & Diversity Inclusion Dataset](#Call Centre)
-* [ML Bootcamp Enrollment Predictions & Marketing Analysis](#Bootcamp Enrollment)
+* [Call Centre Churn & Diversity Inclusion Dataset](#Call_Centre)
+* [ML Bootcamp Enrollment Predictions & Marketing Analysis](#Bootcamp_Enrollment)
 
 ### Customer Behaviour Analysis
 
