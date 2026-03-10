@@ -25,7 +25,7 @@ Data cleaning and preprocessing removed around 25,000 missing data points, and n
 
 ---
 
-### Superstore Marketing Campaign - SAS Curiosity Cup 2025
+### :convenience_store: Superstore Marketing Campaign - SAS Curiosity Cup 2025
 
 The reporting analysis presents the superstore's marketing strategy and focuses on the effectiveness of a campaign offering gold memberships, which provide a 20% discount on all
 purchases. Using predictive modelling techniques, customer behaviours and preferences were analysed to determine the key factors influencing offer acceptance. 
@@ -35,11 +35,11 @@ Network is the most accurate predictive model and can be integrated into the sup
 
 ---
 
-### Call Centre Churn & Diversity Inclusion Dataset - Power BI
+### :telephone_receiver: Call Centre Churn & Diversity Inclusion Dataset - Power BI
 
 ---
 
-### ML Bootcamp Enrollment Predictions & Marketing Analysis
+### :tent: ML Bootcamp Enrollment Predictions & Marketing Analysis
 Predictive models with machine learning techniques were developed with existing and future data collected by the university to identify and predict students who would enrol on the bootcamp to reduce manual efforts and increase efficiencies in reaching out.
 
 k-nearest neighbours algorithm (kNN), decision tree, and artificial neural network (ANN) are used. Based on the models developed, the decision tree not only has the highest accuracy but also possesses clear decision boundaries that allow us to pinpoint specific factors that influence enrollment decisions. 
