@@ -9,12 +9,12 @@
 
 
 ### :walking: Customer Behaviour Analysis - Best Project Award 2025 (Type II - Big Data Query and Analytics)
-Customer behaviour analysis helps to formulate data-driven decision-making for retail businesses. The primary objective is to develop a scalable data pipeline using cloud computing to conduct data ingestion, processing, and analysis with the Online Retail II dataset. Docker, HDFS, Spark, PySpark, and MLib are used for machine learning in this project.
+Customer behaviour analysis helps to formulate data-driven decision-making for retail businesses. The primary objective is to develop a scalable data pipeline using cloud computing to conduct data ingestion, processing, and analysis with the **Online Retail II dataset**. Docker, HDFS, Spark, PySpark, and MLib are used for machine learning in this project.
 
-1. Customer Segmentation based on purchasing behaviour (Clustering)
-2. Customer Lifetime Value Prediction (Regression)
-3. Customer Churn Prediction (Classification)
-4. Product Association Analysis (Association Rule Mining)
+1. Customer Segmentation based on purchasing behaviour **(Clustering)**
+2. Customer Lifetime Value Prediction **(Regression)**
+3. Customer Churn Prediction **(Classification)**
+4. Product Association Analysis **(Association Rule Mining)**
 
 Data cleaning and preprocessing removed around 25,000 missing data points, and new features such as Recency, Frequency, and Monetary values were engineered onto each unique customer, which forms the foundation for the first three analytical tasks.
 
@@ -27,18 +27,19 @@ Data cleaning and preprocessing removed around 25,000 missing data points, and n
 
 ### :convenience_store: Superstore Marketing Campaign - SAS Curiosity Cup 2025
 
-The reporting analysis presents the superstore's marketing strategy and focuses on the effectiveness of a campaign offering gold memberships, which provide a 20% discount on all
-purchases. Using predictive modelling techniques, customer behaviours and preferences were analysed to determine the key factors influencing offer acceptance. 
+The reporting analysis presents the superstore's marketing strategy and focuses on the effectiveness of a campaign offering **gold memberships**, which provide a 20% discount on all
+purchases. Using **predictive modelling techniques**, customer behaviours and preferences were analysed to determine the key factors influencing **offer acceptance**. 
 
-The case study leverages data from past campaigns and applies machine learning techniques such as logistic regression, decision trees, and neural networks using SAS Enterprise Miner. Neural
-Network is the most accurate predictive model and can be integrated into the superstore's marketing platform to identify customers likely to accept offers to increase the chances of successfully selling gold memberships.
+The case study leverages data from past campaigns and applies machine learning techniques such as **logistic regression, decision trees, and neural networks** using **SAS Enterprise Miner**. 
+
+Neural Network is the most accurate predictive model and can be integrated into the superstore's marketing platform to identify customers likely to accept offers to increase the chances of successfully selling gold memberships.
 
 ---
 
 ### :tent: ML Bootcamp Enrollment Predictions & Marketing Analysis
-Predictive models with machine learning techniques were developed with existing and future data collected by the university to identify and predict students who would enrol on the bootcamp to reduce manual efforts and increase efficiencies in reaching out.
+**Predictive models with machine learning techniques** were developed with existing and future data collected by the university to identify and predict students who would enrol on the bootcamp to **reduce manual efforts** and **increase efficiencies** in reaching out.
 
-k-nearest neighbours algorithm (kNN), decision tree, and artificial neural network (ANN) are used. Based on the models developed, the decision tree not only has the highest accuracy but also possesses clear decision boundaries that allow us to pinpoint specific factors that influence enrollment decisions. 
+**k-nearest neighbours algorithm (kNN), decision tree, and artificial neural network (ANN)** are used. Based on the models developed, the decision tree not only has the highest accuracy but also possesses clear decision boundaries that allow us to pinpoint specific factors that influence enrollment decisions. 
 
 The management can prioritise targeting students based on these factors to increase the chances of student recruitment with minimal labour and time spent contacting students. Leveraging insights provided by the model helps to personalise outreach and communication with prospective students to deliver appealing and high-quality pitches.
 
