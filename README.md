@@ -1,7 +1,11 @@
 # Portfolios
 
-### Customer Behaviour Analysis
+### Table of Contents
+* [Customer Behaviour Analysis](#CC)
+* [Call Centre Churn & Diversity Inclusion Dataset](#Call Centre)
+* [ML Bootcamp Enrollment Predictions & Marketing Analysis](#Bootcamp Enrollment)
 
+### Customer Behaviour Analysis
 
 ### Call Centre Churn & Diversity Inclusion Dataset - Power BI
 
