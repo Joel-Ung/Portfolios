@@ -46,6 +46,6 @@ The management can prioritise targeting students based on these factors to incre
 ---
 
 ### :telephone_receiver: Call Centre Churn & Diversity Inclusion Dataset - Power BI
-A Call Centre becomes our client and requires a unified dashboard to review relevant Key Performance Indicators (KPIs)
+A Call Centre becomes our client and requires a unified dashboard to review relevant Key Performance Indicators (KPIs), identify churned customers, and promote diversity & inclusion among employees within the company. 
 
 
