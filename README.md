@@ -30,18 +30,18 @@ Data cleaning and preprocessing removed around 25,000 missing data points, and n
 The reporting analysis presents the superstore's marketing strategy and focuses on the effectiveness of a campaign offering **gold memberships**, which provide a 20% discount on all
 purchases. Using **predictive modelling techniques**, customer behaviours and preferences were analysed to determine the key factors influencing **offer acceptance**. 
 
-The case study leverages data from past campaigns and applies machine learning techniques such as **logistic regression, decision trees, and neural networks** using **SAS Enterprise Miner**. 
+The case study leverages data from past campaigns and applies machine learning techniques such as **logistic regression**, **decision trees**, and **neural networks** using **SAS Enterprise Miner**. 
 
-Neural Network is the most accurate predictive model and can be integrated into the superstore's marketing platform to identify customers likely to accept offers to increase the chances of successfully selling gold memberships.
+Neural Network is the most accurate predictive model and can be integrated into the superstore's marketing platform to identify customers likely to accept offers to increase the chances of **successfully selling gold memberships**.
 
 ---
 
 ### :tent: ML Bootcamp Enrollment Predictions & Marketing Analysis
 **Predictive models with machine learning techniques** were developed with existing and future data collected by the university to identify and predict students who would enrol on the bootcamp to **reduce manual efforts** and **increase efficiencies** in reaching out.
 
-**k-nearest neighbours algorithm (kNN), decision tree, and artificial neural network (ANN)** are used. Based on the models developed, the decision tree not only has the highest accuracy but also possesses clear decision boundaries that allow us to pinpoint specific factors that influence enrollment decisions. 
+**k-nearest neighbours algorithm (kNN)**, **decision tree**, and **artificial neural network (ANN)** are used. Based on the models developed, the decision tree not only has the highest accuracy but also possesses clear decision boundaries that allow us to pinpoint specific factors that influence enrollment decisions. 
 
-The management can prioritise targeting students based on these factors to increase the chances of student recruitment with minimal labour and time spent contacting students. Leveraging insights provided by the model helps to personalise outreach and communication with prospective students to deliver appealing and high-quality pitches.
+The management can prioritise targeting students based on these factors to increase the chances of student recruitment with minimal labour and time spent contacting students. Leveraging insights provided by the model helps to **personalise outreach** and communication with prospective students to deliver appealing and high-quality pitches.
 
 ---
 
