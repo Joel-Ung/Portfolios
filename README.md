@@ -9,21 +9,12 @@
 
 
 ### Customer Behaviour Analysis - Best Project Award 2025 (Type II - Big Data Query and Analytics)
-Customer behaviour analysis helps to formulate data-driven decision-making for retail businesses. The primary objective is to develop a scalable data pipeline using cloud computing to conduct data ingestion, processing, and analysis with the Online Retail II dataset. 
+Customer behaviour analysis helps to formulate data-driven decision-making for retail businesses. The primary objective is to develop a scalable data pipeline using cloud computing to conduct data ingestion, processing, and analysis with the Online Retail II dataset. Docker, HDFS, Spark, PySpark, and MLib are used for machine learning in this project.
 
-The application will feature four analytical tasks, which consist of:
 1. Customer Segmentation based on purchasing behaviour (Clustering)
 2. Customer Lifetime Value Prediction (Regression)
 3. Customer Churn Prediction (Classification)
 4. Product Association Analysis (Association Rule Mining)
-
-The dataset contains multiple tables, one from 2009 to 2010, and one from 2010 to 2011. The dataset is stored in HDFS supported by a cluster with 1 Name Node and 3 Data Nodes for reliability.
-
-All analytical tasks are processed on a Spark Cluster with 1 Master and 2 Worker Nodes. 
-
-For the development interface, Jupyter Notebook is used to execute PySpark code directly connected to the Spark Master. 
-
-Overall, Docker, HDFS, Spark, PySpark, and MLib are used for machine learning in this project.
 
 Data cleaning and preprocessing removed around 25,000 missing data points, and new features such as Recency, Frequency, and Monetary values were engineered onto each unique customer, which forms the foundation for the first three analytical tasks.
 
