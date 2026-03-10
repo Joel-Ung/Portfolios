@@ -5,6 +5,8 @@
 * [Call Centre Churn & Diversity Inclusion Dataset](#Call_Centre)
 * [ML Bootcamp Enrollment Predictions & Marketing Analysis](#Bootcamp_Enrollment)
 
+
+
 ### Customer Behaviour Analysis
 Customer behaviour analysis helps to formulate data-driven decision-making for retail businesses. The primary objective is to develop a scalable data pipeline using cloud computing to conduct data ingestion, processing, and analysis with the Online Retail II dataset. 
 
@@ -29,7 +31,11 @@ Data cleaning and preprocessing removed around 25,000 missing data points, and n
 3. For **Churn Classification**, Random Forest also outperforms Logistic Regression with an AUC of 0.80, and it also correctly identifies 83% of customers who are actually churned in the historical data. Businesses can utilise this method to identify churned customers.
 4. Lastly, for **Product Association Rule Mining**, FP-Growth algorithm found strong rules. For example, customers who buy 'Poppy's Playhouse LivingRoom and Bedroom' are 93% likely to also buy the 'Poppy's Playhouse Kitchen'. Strong association rules like this are perfect for product bundling and recommendations to extend revenue.
 
+
+
 ### Call Centre Churn & Diversity Inclusion Dataset - Power BI
+
+
 
 ### ML Bootcamp Enrollment Predictions & Marketing Analysis
 Predictive models with machine learning techniques were developed with existing and future data collected by the university to identify and predict students who would enrol on the bootcamp to reduce manual efforts and increase efficiencies in reaching out.
