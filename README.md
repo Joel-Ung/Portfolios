@@ -22,9 +22,7 @@ Data cleaning and preprocessing removed around 25,000 missing data points, and n
 2. For **Customer Lifetime Value prediction**, Random Forest outperforms Linear Regression with a much lower Root Mean Squared Error. The most important predictor was the average quantity a customer buys.
 3. For **Churn Classification**, Random Forest also outperforms Logistic Regression with an AUC of 0.80, and it also correctly identifies 83% of customers who are actually churned in the historical data. Businesses can utilise this method to identify churned customers.
 4. Lastly, for **Product Association Rule Mining**, FP-Growth algorithm found strong rules. For example, customers who buy 'Poppy's Playhouse LivingRoom and Bedroom' are 93% likely to also buy the 'Poppy's Playhouse Kitchen'. Strong association rules like this are perfect for product bundling and recommendations to extend revenue.
-
-
-
+---
 ### Superstore Marketing Campaign - SAS Curiosity Cup 2025
 
 The reporting analysis presents the superstore's marketing strategy and focuses on the effectiveness of a campaign offering gold memberships, which provide a 20% discount on all
